@@ -1,0 +1,26 @@
+p{
+  font-family: arial;
+}
+.caption{
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(254, 254, 254);
+  padding-left: 10px;
+  
+  }
+  .description{
+    font-size: 12px;
+  color: rgb(134, 133, 133);
+  padding-left: 10px;
+  padding-bottom: 7px;
+  
+  }
+  .style{
+    border-width: 1px;
+    border-color:rgb(150,150,150);
+    border-style: solid;
+    background-color: rgb(39, 32, 32);
+    width: 290px;
+    
+    
+  }
